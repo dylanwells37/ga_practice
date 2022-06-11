@@ -3,7 +3,7 @@
 source=/Users/dylanwells/Scripts/ga_practice
 pop=50
 death=40
-#immi cross and muta must add to death
+#immi cross and muta must add up to death
 immi=15
 cross=10
 muta=15

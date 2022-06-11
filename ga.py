@@ -1,7 +1,7 @@
 #This is a test python program to gain practice writing genetic algorithms
 #This program will use a genetic algorithm to find the maximum of
 #an equation in a certain parameter space (maximize z)
-#imports
+#importing python thingys
 import numpy as np
 import math
 import random
