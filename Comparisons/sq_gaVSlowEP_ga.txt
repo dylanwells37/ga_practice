@@ -1,0 +1,4 @@
+sq_ga Maximum: 1.99999988678474
+sq_ga Average: 1.9998103894071941
+lowEP_ga Maximum: 1.99999999998074
+lowEP_ga Average: 1.9999999353446627

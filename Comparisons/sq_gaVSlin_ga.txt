@@ -1,0 +1,4 @@
+sq_ga Maximum: 1.999999891492242
+sq_ga Average: 1.9998053887548075
+lin_ga Maximum: 1.999999967367188
+lin_ga Average: 1.999718647369258

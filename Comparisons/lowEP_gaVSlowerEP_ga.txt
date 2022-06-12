@@ -1,0 +1,4 @@
+lowEP_ga Maximum: 1.999999999978761
+lowEP_ga Average: 1.9999999340009798
+lowerEP_ga Maximum: 1.9999999999996865
+lowerEP_ga Average: 1.9988808890778769

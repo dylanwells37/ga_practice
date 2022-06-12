@@ -87,6 +87,6 @@ while runcount < g.runs:
 		mywriter.writerows(minions)
 minions.sort()
 print("Maximum value found:", minions[-1])
-with open(g.source+'/squareMaxes.csv', 'a') as file:
+with open(g.source+'/sq_ga.csv', 'a') as file:
 	mywriter = csv.writer(file, delimiter=',')
 	mywriter.writerow(minions[-1])

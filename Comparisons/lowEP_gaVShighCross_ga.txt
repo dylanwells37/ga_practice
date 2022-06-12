@@ -1,0 +1,4 @@
+lowEP_ga Maximum: 1.9999999999796116
+lowEP_ga Average: 1.9999999351143813
+highCross_ga Maximum: 1.99999999997858
+highCross_ga Average: 1.9999998663210503
